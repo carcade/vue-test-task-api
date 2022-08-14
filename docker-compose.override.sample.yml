@@ -1,0 +1,6 @@
+version: "3.2"
+
+services:
+  app:
+    environment:
+      CORS_ORIGIN: "http://localhost:3000"
